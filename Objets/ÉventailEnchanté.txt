@@ -1,0 +1,3 @@
+Éventail enchanté
+
+Lorsque vous tenez l'éventail, vous pouvez utiliser une action pour lancer le sort bourrasque (sauvegarde DD 13 contre celui-ci). Une fois utilisé, l'éventail ne devrait plus être utilisé de nouveau avant la prochaine aube. Chaque fois qu'il l'est de nouveau avant ce moment, il y a une chance cumulative de 20 % qu'il ne fonctionne pas et se déchire en lambeaux, inutiles non magiques.
