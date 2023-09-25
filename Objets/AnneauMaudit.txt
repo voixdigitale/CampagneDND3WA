@@ -6,4 +6,4 @@ Maudit avec Scrutation
 
 Dès que l'anneau est mis, on ne peut plus l'enlever. Vous pouvez voir et entendre une succube qui est toujours à vos côtés.
 
- La cible doit effectuer un jet de sauvegarde de Sagesse, avec un modificateur dépendant de votre niveau de connaissance et du lien physique qui vous relie à elle. Si la cible sait que vous lancez ce sort, elle peut choisir d'échouer volontairement son jet de sauvegarde si elle souhaite être observée.
+La cible doit effectuer un jet de sauvegarde de Sagesse, avec un modificateur dépendant de votre niveau de connaissance et du lien physique qui vous relie à elle. Si la cible sait que vous lancez ce sort, elle peut choisir d'échouer volontairement son jet de sauvegarde si elle souhaite être observée.
