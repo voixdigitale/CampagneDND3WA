@@ -1,4 +1,4 @@
 Arc long
-Dégats : 1d4 perforant
+Dégats : 1d8 perforant
 
 1 kg	50 po	Munitions (portée 45 m/180 m), lourde, à deux mains
