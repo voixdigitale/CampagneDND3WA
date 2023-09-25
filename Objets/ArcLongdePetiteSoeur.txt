@@ -1,4 +1,8 @@
 Arc long
+<<<<<<< HEAD
 Dégats : 1d8 perforant
+=======
+Dégats : 1d6 perforant
+>>>>>>> ec95b81f0ed4fd203891cc035721a508dd986381
 
 1 kg	50 po	Munitions (portée 45 m/180 m), lourde, à deux mains
